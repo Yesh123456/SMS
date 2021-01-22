@@ -1,4 +1,10 @@
 # SMS
-This project is attemmpt in world of PHP with database connectivity No CSS used but logically working correct.
-First download the project and store in htdocs and then run PHPMYADMIMN on localhost and create database sms and import sms.sql file.
-Then run index.php file and enjoy the working.
+**********************************
+REQUIREMENTS
+**********************************
+
+1. Download PHP from the site.
+
+2. Create your Database by importing SQL file
+
+3. Ping me if you found any error while using.
